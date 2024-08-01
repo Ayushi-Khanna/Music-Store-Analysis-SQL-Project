@@ -7,4 +7,5 @@ Designed and implemented SQL queries to manage and manipulate large datasets, en
 * My SQL
 
 Schema- Music Store Database  
-![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
+<img width="594" alt="schema_diagram" src="https://github.com/user-attachments/assets/4e4e2050-df28-4fd5-9f97-38d2406aadd9">
+
